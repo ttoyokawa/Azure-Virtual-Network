@@ -13,7 +13,7 @@ The ELK server allows users to easily monitor and track the VMs on the network. 
 
 The ELK machine was configured using an automated Ansible playbook. This allows for simple distribution of this specific configuration as it can be deployed to other machines with a single command rather than manually configuring each VM 1 at a time. 
 
-https://github.com/ttoyokawa/Azure-Virtual-Network/blob/main/Images/docker-ps.PNG
+![diagram](https://github.com/ttoyokawa/Azure-Virtual-Network/blob/main/Images/docker-ps.PNG)
 
 The above image shows the result of running the command docker ps after the playbook is successfully executed.
 
